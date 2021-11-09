@@ -1,0 +1,297 @@
+Mismatches:
+ms-python.python (installs: 45125952, daysInBetween: -9): marketplace (2021.11.1422169775) > Open VSX (2021.10.1365161279)
+ms-toolsai.jupyter (installs: 25255851, daysInBetween: 3): marketplace (2021.10.1001414422) < Open VSX (2021.11.100)
+dbaeumer.vscode-eslint (installs: 17147931, daysInBetween: -30): marketplace (2.2.2) > Open VSX (2.1.20)
+MS-CEINTL.vscode-language-pack-zh-hans (installs: 12542365, daysInBetween: -56): marketplace (1.62.2) > Open VSX (1.60.4)
+eamodio.gitlens (installs: 11520940, daysInBetween: -79): marketplace (11.6.1) > Open VSX (11.6.0)
+vscjava.vscode-java-debug (installs: 11061882, daysInBetween: 19): marketplace (0.36.0) > Open VSX (0.35.0)
+vscode-icons-team.vscode-icons (installs: 9250573, daysInBetween: -51): marketplace (11.7.0) > Open VSX (11.6.0)
+ecmel.vscode-html-css (installs: 7846204, daysInBetween: -8): marketplace (1.10.2) > Open VSX (1.9.1)
+HookyQR.beautify (installs: 7631632, daysInBetween: 322): marketplace (1.5.0) > Open VSX (1.4.11)
+formulahendry.auto-rename-tag (installs: 7061399): not in OpenVSX
+golang.go (installs: 5803229, daysInBetween: -15): marketplace (0.29.0) > Open VSX (0.28.1)
+felixfbecker.php-debug (installs: 5581647, daysInBetween: -8): marketplace (1.22.0) > Open VSX (1.21.0)
+donjayamanne.githistory (installs: 4868436, daysInBetween: -85): marketplace (0.6.19) > Open VSX (0.6.18)
+EditorConfig.EditorConfig (installs: 4218440, daysInBetween: 259): marketplace (0.16.4) < Open VSX (0.16.6)
+GitHub.vscode-pull-request-github (installs: 3867496, daysInBetween: -8): marketplace (0.32.0) > Open VSX (0.31.1)
+christian-kohler.npm-intellisense (installs: 3615809, daysInBetween: -293): marketplace (1.4.0) > Open VSX (1.2.2)
+ms-vscode.cmake-tools (installs: 3186941, daysInBetween: 1): marketplace (1.9.1) > Open VSX (1.9.0)
+MS-CEINTL.vscode-language-pack-ja (installs: 3146429, daysInBetween: -56): marketplace (1.62.2) > Open VSX (1.60.4)
+DavidAnson.vscode-markdownlint (installs: 3057999, daysInBetween: -17): marketplace (0.45.0) > Open VSX (0.44.4)
+magicstack.MagicPython (installs: 2963895, daysInBetween: 550): marketplace (1.1.0) < Open VSX (1.1.1)
+Angular.ng-template (installs: 2732160, daysInBetween: -8): marketplace (13.0.0) > Open VSX (12.2.2)
+rebornix.ruby (installs: 2224758, daysInBetween: 25): marketplace (0.28.1) > Open VSX (0.28.0)
+platformio.platformio-ide (installs: 1984688): not in OpenVSX
+alefragnani.project-manager (installs: 1981411, daysInBetween: 26): marketplace (12.4.0) > Open VSX (12.0.1)
+hollowtree.vue-snippets (installs: 1970140, daysInBetween: -121): marketplace (1.0.4) > Open VSX (0.1.12)
+steoates.autoimport (installs: 1815205, daysInBetween: -368): marketplace (1.5.4) > Open VSX (1.5.3)
+alefragnani.Bookmarks (installs: 1744111, daysInBetween: -143): marketplace (13.2.2) > Open VSX (13.0.1)
+MS-CEINTL.vscode-language-pack-es (installs: 1584520, daysInBetween: -56): marketplace (1.62.2) > Open VSX (1.60.4)
+hashicorp.terraform (installs: 1341206, daysInBetween: -70): marketplace (2.16.0) > Open VSX (2.14.0)
+MS-CEINTL.vscode-language-pack-ru (installs: 1330848, daysInBetween: -56): marketplace (1.62.2) > Open VSX (1.60.4)
+mgmcdermott.vscode-language-babel (installs: 1282305, daysInBetween: -1): marketplace (0.0.35) > Open VSX (0.0.32)
+vsciot-vscode.vscode-arduino (installs: 1161150): not in OpenVSX
+ikappas.phpcs (installs: 1155011): not in OpenVSX
+Unity.unity-debug (installs: 1083457): not in OpenVSX
+MS-CEINTL.vscode-language-pack-pt-BR (installs: 1006976, daysInBetween: -56): marketplace (1.62.2) > Open VSX (1.60.4)
+teabyii.ayu (installs: 1003747, daysInBetween: 4): marketplace (1.0.5) > Open VSX (1.0.3)
+MS-CEINTL.vscode-language-pack-ko (installs: 1001266, daysInBetween: -56): marketplace (1.62.2) > Open VSX (1.60.4)
+vincaslt.highlight-matching-tag (installs: 982791, daysInBetween: -158): marketplace (0.10.1) > Open VSX (0.10.0)
+jpoissonnier.vscode-styled-components (installs: 980578, daysInBetween: 67): marketplace (1.6.6) < Open VSX (1.7.0)
+formulahendry.auto-complete-tag (installs: 969813, daysInBetween: 1113): marketplace (0.1.0) < Open VSX (0.2.0)
+SonarSource.sonarlint-vscode (installs: 924385, daysInBetween: -16): marketplace (3.1.0) > Open VSX (3.0.0)
+k--kato.intellij-idea-keybindings (installs: 909653, daysInBetween: -130): marketplace (1.5.0) > Open VSX (1.4.5)
+msjsdiag.debugger-for-edge (installs: 823654, daysInBetween: 381): marketplace (1.0.15) > Open VSX (1.0.10)
+jebbs.plantuml (installs: 812867, daysInBetween: -257): marketplace (2.16.0) > Open VSX (2.14.0)
+MS-CEINTL.vscode-language-pack-fr (installs: 800619, daysInBetween: -56): marketplace (1.62.2) > Open VSX (1.60.4)
+ms-vscode.atom-keybindings (installs: 775328, daysInBetween: -43): marketplace (3.0.9) > Open VSX (3.0.6)
+formulahendry.vscode-mysql (installs: 717630, daysInBetween: -398): marketplace (0.4.1) > Open VSX (0.4.0)
+bradlc.vscode-tailwindcss (installs: 697230, daysInBetween: -24): marketplace (0.7.2) > Open VSX (0.7.1)
+MS-CEINTL.vscode-language-pack-de (installs: 694428, daysInBetween: -56): marketplace (1.62.2) > Open VSX (1.60.4)
+k--kato.docomment (installs: 650721, daysInBetween: -302): marketplace (0.1.30) > Open VSX (0.1.20)
+ziyasal.vscode-open-in-github (installs: 650063, daysInBetween: 800): marketplace (1.3.6) < Open VSX (1.4.1)
+file-icons.file-icons (installs: 632638): not in OpenVSX
+tombonnike.vscode-status-bar-format-toggle (installs: 612453, daysInBetween: -496): marketplace (3.0.0) > Open VSX (2.0.0)
+MS-CEINTL.vscode-language-pack-zh-hant (installs: 610597, daysInBetween: -56): marketplace (1.62.2) > Open VSX (1.60.4)
+wmaurer.change-case (installs: 579580): not in OpenVSX
+equinusocio.vsc-material-theme-icons (installs: 566978, daysInBetween: -208): marketplace (2.2.1) > Open VSX (2.0.0)
+Wscats.eno (installs: 491270): not in OpenVSX
+amazonwebservices.aws-toolkit-vscode (installs: 480806, daysInBetween: -106): marketplace (1.33.0) > Open VSX (1.27.0)
+justusadam.language-haskell (installs: 480670, daysInBetween: -188): marketplace (3.4.0) > Open VSX (3.3.0)
+stylelint.vscode-stylelint (installs: 444066, daysInBetween: -11): marketplace (1.1.0) > Open VSX (1.0.0)
+DigitalBrainstem.javascript-ejs-support (installs: 420779, daysInBetween: 210): marketplace (1.3.1) > Open VSX (1.2.1)
+alexkrechik.cucumberautocomplete (installs: 398090): not in OpenVSX
+Tyriar.sort-lines (installs: 394867): not in OpenVSX
+matklad.rust-analyzer (installs: 341222, daysInBetween: -12): marketplace (0.2.809) > Open VSX (0.2.784)
+jock.svg (installs: 334717, daysInBetween: -365): marketplace (1.4.14) > Open VSX (1.4.1)
+ChakrounAnas.turbo-console-log (installs: 334352): not in OpenVSX
+lextudio.restructuredtext (installs: 330277, daysInBetween: -200): marketplace (167.0.0) > Open VSX (147.0.0)
+wwm.better-align (installs: 313312, daysInBetween: 1125): marketplace (1.1.6) < Open VSX (1.1.7)
+arjun.swagger-viewer (installs: 295805): not in OpenVSX
+ban.spellright (installs: 251901, daysInBetween: -168): marketplace (3.0.60) > Open VSX (3.0.56)
+MS-CEINTL.vscode-language-pack-it (installs: 239395, daysInBetween: -56): marketplace (1.62.2) > Open VSX (1.60.4)
+mongodb.mongodb-vscode (installs: 238814, daysInBetween: -13): marketplace (0.6.14) > Open VSX (0.6.12)
+serayuzgur.crates (installs: 230548, daysInBetween: -172): marketplace (0.5.10) > Open VSX (0.5.9)
+bierner.markdown-mermaid (installs: 216109, daysInBetween: -48): marketplace (1.13.0) > Open VSX (1.12.1)
+miguelsolorio.fluent-icons (installs: 215440, daysInBetween: -179): marketplace (0.0.14) > Open VSX (0.0.7)
+ms-vscode.references-view (installs: 198393, daysInBetween: 54): marketplace (0.0.81) < Open VSX (0.0.82)
+docsmsft.docs-markdown (installs: 174973): not in OpenVSX
+ikappas.composer (installs: 174751): not in OpenVSX
+shufo.vscode-blade-formatter (installs: 173314, daysInBetween: -26): marketplace (0.8.4) > Open VSX (0.7.29)
+shyykoserhiy.vscode-spotify (installs: 159254): not in OpenVSX
+johnsoncodehk.volar (installs: 140444): not in OpenVSX
+MS-CEINTL.vscode-language-pack-tr (installs: 135490, daysInBetween: -56): marketplace (1.62.2) > Open VSX (1.60.4)
+MS-CEINTL.vscode-language-pack-pl (installs: 114919, daysInBetween: -56): marketplace (1.62.2) > Open VSX (1.60.4)
+BazelBuild.vscode-bazel (installs: 112913, daysInBetween: -191): marketplace (0.5.0) > Open VSX (0.4.1)
+vortizhe.simple-ruby-erb (installs: 111615): not in OpenVSX
+paulmolluzzo.convert-css-in-js (installs: 105700, daysInBetween: 628): marketplace (1.1.3) > Open VSX (0.3.0)
+iocave.monkey-patch (installs: 96901, daysInBetween: -115): marketplace (0.1.15) > Open VSX (0.1.12)
+peterj.proto (installs: 95065): not in OpenVSX
+appulate.filewatcher (installs: 92452): not in OpenVSX
+iocave.customize-ui (installs: 89477, daysInBetween: -115): marketplace (0.1.54) > Open VSX (0.1.51)
+neikeq.godot-csharp-vscode (installs: 81049): not in OpenVSX
+adamhartford.vscode-base64 (installs: 79184): not in OpenVSX
+heybourn.headwind (installs: 76599, daysInBetween: 429): marketplace (1.7.0) < Open VSX (2.0.0)
+csstools.postcss (installs: 75635, daysInBetween: -7): marketplace (1.0.9) > Open VSX (1.0.8)
+cheshirekow.cmake-format (installs: 70250, daysInBetween: 392): marketplace (0.6.11) < Open VSX (0.6.13)
+ms-vscode.js-debug (installs: 67835, daysInBetween: -14): marketplace (1.62.0) > Open VSX (1.61.0)
+miguel-savignano.ruby-symbols (installs: 65776): not in OpenVSX
+fabiospampinato.vscode-highlight (installs: 61541): not in OpenVSX
+meganrogge.template-string-converter (installs: 53370, daysInBetween: 0): marketplace (0.5.4) > Open VSX (0.5.3)
+kosz78.nim (installs: 48835): not in OpenVSX
+Dannark.AndroidLauncher (installs: 48467): not in OpenVSX
+pdconsec.vscode-print (installs: 48203, daysInBetween: -87): marketplace (0.9.14) > Open VSX (0.9.8)
+shuworks.vscode-table-formatter (installs: 48026): not in OpenVSX
+lintangwisesa.arduino (installs: 44004, daysInBetween: 404): marketplace (0.3.4) > Open VSX (0.3.3)
+paragdiwan.gitpatch (installs: 42982): not in OpenVSX
+ria.elastic (installs: 40071, daysInBetween: 909): marketplace (0.13.3) > Open VSX (0.13.2)
+formulahendry.vscode-node-red (installs: 39310, daysInBetween: 773): marketplace (0.2.0) > Open VSX (0.0.2)
+vshaxe.hxcpp-debugger (installs: 38032): not in OpenVSX
+johnsoncodehk.vscode-typescript-vue-plugin (installs: 33955): not in OpenVSX
+rintoj.json-organizer (installs: 33940): not in OpenVSX
+arcanis.vscode-zipfs (installs: 33853, daysInBetween: 183): marketplace (2.3.0) < Open VSX (2.4.0-rc.5)
+vsls-contrib.gitdoc (installs: 29210): not in OpenVSX
+xirider.livecode (installs: 29014): not in OpenVSX
+Swellaby.vscode-rust-test-adapter (installs: 28755, daysInBetween: 679): marketplace (0.11.0) < Open VSX (0.11.1)
+vscode-org-mode.org-mode (installs: 23297): not in OpenVSX
+MS-CEINTL.vscode-language-pack-cs (installs: 22144, daysInBetween: -56): marketplace (1.62.2) > Open VSX (1.60.4)
+travis.simple-dark (installs: 21296, daysInBetween: -66): marketplace (1.0.2) > Open VSX (1.0.1)
+tonsky.theme-alabaster (installs: 21241, daysInBetween: 13): marketplace (0.2.9) > Open VSX (0.2.7)
+bierner.markdown-image-size (installs: 20757): not in OpenVSX
+oguhpereira.spotify-color-theme (installs: 20373, daysInBetween: 74): marketplace (1.2.10) > Open VSX (1.2.9)
+nwolverson.ide-purescript (installs: 20264): not in OpenVSX
+stripe.vscode-stripe (installs: 19870, daysInBetween: -147): marketplace (2.0.8) > Open VSX (1.7.7)
+ms-vscode.vscode-js-profile-flame (installs: 18177): not in OpenVSX
+paiqo.databricks-vscode (installs: 17149, daysInBetween: -137): marketplace (0.8.9) > Open VSX (0.8.0)
+ms-vscode.vscode-js-profile-table (installs: 14190): not in OpenVSX
+bmalehorn.vscode-fish (installs: 13141, daysInBetween: -218): marketplace (1.0.24) > Open VSX (1.0.20)
+andreweinand.mock-debug (installs: 12693): not in OpenVSX
+liqube.theme-liqube-dark (installs: 12185, daysInBetween: 277): marketplace (1.0.6) > Open VSX (1.0.5)
+tomblind.local-lua-debugger-vscode (installs: 10946, daysInBetween: -53): marketplace (0.3.1) > Open VSX (0.2.3)
+fraser.live-coder (installs: 10101): not in OpenVSX
+reduckted.vscode-gitweblinks (installs: 8720, daysInBetween: -18): marketplace (2.6.0) > Open VSX (2.5.3)
+kodetech.kha (installs: 5940, daysInBetween: -167): marketplace (21.9.0) > Open VSX (21.3.8)
+kodetech.kha-extension-pack (installs: 5462): not in OpenVSX
+adrianhumphreys.silverstripe (installs: 4005, daysInBetween: 310): marketplace (1.0.6) > Open VSX (1.0.0)
+halcyontechltd.code-for-ibmi (installs: 3466, daysInBetween: -12): marketplace (0.7.19) > Open VSX (0.7.15)
+christianvoigt.argdown-vscode (installs: 3057, daysInBetween: -111): marketplace (1.7.0) > Open VSX (1.5.3)
+apollographql.apollo-midnight-color-theme (installs: 2498, daysInBetween: 20): marketplace (0.10.0) > Open VSX (0.9.0)
+buianhthang.gitflow (installs: 2042): not in OpenVSX
+damonsk.vscode-wardley-maps (installs: 1110, daysInBetween: -90): marketplace (1.0.12) > Open VSX (1.0.11)
+dylan-foundry.vscode-dylan (installs: 894, daysInBetween: 654): marketplace (0.2.0) < Open VSX (0.2.1)
+saltud.type4py (installs: 690): not in OpenVSX
+hirosystems.clarity-lsp (installs: 630, daysInBetween: 19): marketplace (0.5.3) > Open VSX (0.5.1)
+halcyontechltd.git-client-ibmi (installs: 583): not in OpenVSX
+vscode.smali: not in marketplace
+vscode.cpp: not in marketplace
+Telerik.nativescript: not in marketplace
+sheaf.groovy-lambda (installs: undefined): not in OpenVSX
+sheaf.groovy-lambda: not in marketplace
+pmbenjamin.vscode-snyk: not in marketplace
+ms-vscode.vscode-js-profile-notebook (installs: undefined): not in OpenVSX
+ms-vscode.vscode-js-profile-notebook: not in marketplace
+ms-vscode.Go: not in marketplace
+ms-pyright.vscode-pyright (installs: undefined): not in OpenVSX
+ms-pyright.vscode-pyright: not in marketplace
+MS-CEINTL.vscode-language-pack-uk: not in marketplace
+MS-CEINTL.vscode-language-pack-nl: not in marketplace
+MS-CEINTL.vscode-language-pack-id: not in marketplace
+MS-CEINTL.vscode-language-pack-en-GB: not in marketplace
+kodetech.electron-debug: not in marketplace
+jolaleye.horizon-theme-vscode: not in marketplace
+joelday.docthis (installs: undefined): not in OpenVSX
+joelday.docthis: not in marketplace
+itsmajestix.vscode-ti (installs: undefined): not in OpenVSX
+itsmajestix.vscode-ti: not in marketplace
+google-java-format (installs: undefined): not in OpenVSX
+google-java-format: not in marketplace
+goodbaikin.org-preview: not in marketplace
+felixfbecker.php-intellisense: not in marketplace
+eclipse-cdt.cdt-gdb-vscode: not in marketplace
+eamodio.tsl-problem-matcher: not in marketplace
+
+Published withing 2 days for extensions updated in 30 days:
+- ms-python.python: installs: 45125952; daysInBetween: -8.59680207175926; marketplace: 2021.11.1422169775; Open VSX: 2021.10.1365161279
+- ms-toolsai.jupyter: installs: 25255851; daysInBetween: 3.1961546180555556; marketplace: 2021.10.1001414422; Open VSX: 2021.11.100
+- dbaeumer.vscode-eslint: installs: 17147931; daysInBetween: -30.315641203703702; marketplace: 2.2.2; Open VSX: 2.1.20
+- MS-CEINTL.vscode-language-pack-zh-hans: installs: 12542365; daysInBetween: -55.84094581018518; marketplace: 1.62.2; Open VSX: 1.60.4
++ vscjava.vscode-java-pack: installs: 10084166; daysInBetween: 0.8003228356481481; marketplace: 0.18.6; Open VSX: 0.18.6
++ formulahendry.code-runner: installs: 9827920; daysInBetween: 0.7298672916666666; marketplace: 0.11.6; Open VSX: 0.11.6
+- vscode-icons-team.vscode-icons: installs: 9250573; daysInBetween: -51.01484712962963; marketplace: 11.7.0; Open VSX: 11.6.0
+- octref.vetur: installs: 8945469; daysInBetween: 10.943125752314815; marketplace: 0.35.0; Open VSX: 0.35.0
+- golang.go: installs: 5803229; daysInBetween: -15.322158194444444; marketplace: 0.29.0; Open VSX: 0.28.1
++ formulahendry.auto-close-tag: installs: 5776275; daysInBetween: 0.5683631944444445; marketplace: 0.5.13; Open VSX: 0.5.13
++ christian-kohler.path-intellisense: installs: 5745444; daysInBetween: 0.2748082175925926; marketplace: 2.4.2; Open VSX: 2.4.2
+- felixfbecker.php-debug: installs: 5581647; daysInBetween: -8.395521423611111; marketplace: 1.22.0; Open VSX: 1.21.0
+- donjayamanne.githistory: installs: 4868436; daysInBetween: -84.6251003587963; marketplace: 0.6.19; Open VSX: 0.6.18
+- GitHub.vscode-pull-request-github: installs: 3867496; daysInBetween: -8.265846168981481; marketplace: 0.32.0; Open VSX: 0.31.1
+- Dart-Code.dart-code: installs: 3712269; daysInBetween: -0.0007430324074074074; marketplace: 3.28.0; Open VSX: 3.28.0
+- Dart-Code.flutter: installs: 3461773; daysInBetween: -0.0011885185185185184; marketplace: 3.28.0; Open VSX: 3.28.0
++ ms-vscode.cmake-tools: installs: 3186941; daysInBetween: 1.2493645717592592; marketplace: 1.9.1; Open VSX: 1.9.0
+- MS-CEINTL.vscode-language-pack-ja: installs: 3146429; daysInBetween: -55.84224398148148; marketplace: 1.62.2; Open VSX: 1.60.4
++ vscodevim.vim: installs: 3129117; daysInBetween: 0.6236676273148148; marketplace: 1.21.10; Open VSX: 1.21.10
+- DavidAnson.vscode-markdownlint: installs: 3057999; daysInBetween: -16.905693900462964; marketplace: 0.45.0; Open VSX: 0.44.4
+- GitHub.github-vscode-theme: installs: 2753959; daysInBetween: 8.485852777777778; marketplace: 5.0.3; Open VSX: 5.0.3
+- Angular.ng-template: installs: 2732160; daysInBetween: -7.738402407407407; marketplace: 13.0.0; Open VSX: 12.2.2
++ oderwat.indent-rainbow: installs: 2559966; daysInBetween: 0.25713850694444446; marketplace: 8.2.2; Open VSX: 8.2.2
++ shd101wyy.markdown-preview-enhanced: installs: 2487163; daysInBetween: 0.631905; marketplace: 0.6.1; Open VSX: 0.6.1
++ wayou.vscode-todo-highlight: installs: 2112848; daysInBetween: 0.04477518518518518; marketplace: 1.0.5; Open VSX: 1.0.5
+- MS-CEINTL.vscode-language-pack-es: installs: 1584520; daysInBetween: -55.842892962962964; marketplace: 1.62.2; Open VSX: 1.60.4
++ onecentlin.laravel-blade: installs: 1539132; daysInBetween: 0.7463036574074075; marketplace: 1.28.0; Open VSX: 1.28.0
+- James-Yu.latex-workshop: installs: 1494599; daysInBetween: 4.743939340277778; marketplace: 8.21.1; Open VSX: 8.21.1
+- hashicorp.terraform: installs: 1341206; daysInBetween: -69.54205366898148; marketplace: 2.16.0; Open VSX: 2.14.0
+- MS-CEINTL.vscode-language-pack-ru: installs: 1330848; daysInBetween: -55.84137729166667; marketplace: 1.62.2; Open VSX: 1.60.4
+- MS-CEINTL.vscode-language-pack-pt-BR: installs: 1006976; daysInBetween: -55.84165099537037; marketplace: 1.62.2; Open VSX: 1.60.4
+- MS-CEINTL.vscode-language-pack-ko: installs: 1001266; daysInBetween: -55.84226986111111; marketplace: 1.62.2; Open VSX: 1.60.4
+- SonarSource.sonarlint-vscode: installs: 924385; daysInBetween: -16.184468333333335; marketplace: 3.1.0; Open VSX: 3.0.0
+- k--kato.intellij-idea-keybindings: installs: 909653; daysInBetween: -129.55037671296296; marketplace: 1.5.0; Open VSX: 1.4.5
+- jebbs.plantuml: installs: 812867; daysInBetween: -256.98874005787036; marketplace: 2.16.0; Open VSX: 2.14.0
+- MS-CEINTL.vscode-language-pack-fr: installs: 800619; daysInBetween: -55.8430728587963; marketplace: 1.62.2; Open VSX: 1.60.4
++ zxh404.vscode-proto3: installs: 743776; daysInBetween: 0.7205459490740741; marketplace: 0.5.5; Open VSX: 0.5.5
+- KnisterPeter.vscode-github: installs: 725189; daysInBetween: 5.579857569444444; marketplace: 0.30.7; Open VSX: 0.30.7
+- bradlc.vscode-tailwindcss: installs: 697230; daysInBetween: -24.36602244212963; marketplace: 0.7.2; Open VSX: 0.7.1
+- MS-CEINTL.vscode-language-pack-de: installs: 694428; daysInBetween: -55.84321181712963; marketplace: 1.62.2; Open VSX: 1.60.4
+- felipecaputo.git-project-manager: installs: 681578; daysInBetween: -0.0016776273148148147; marketplace: 1.8.1; Open VSX: 1.8.1
++ neilbrayfield.php-docblocker: installs: 663252; daysInBetween: 0.0577287962962963; marketplace: 2.6.1; Open VSX: 2.6.1
+- k--kato.docomment: installs: 650721; daysInBetween: -301.5764942824074; marketplace: 0.1.30; Open VSX: 0.1.20
+- tombonnike.vscode-status-bar-format-toggle: installs: 612453; daysInBetween: -496.2718720717593; marketplace: 3.0.0; Open VSX: 2.0.0
+- MS-CEINTL.vscode-language-pack-zh-hant: installs: 610597; daysInBetween: -55.84078743055556; marketplace: 1.62.2; Open VSX: 1.60.4
++ kisstkondoros.vscode-gutter-preview: installs: 572375; daysInBetween: 0.8633225578703704; marketplace: 0.29.0; Open VSX: 0.29.0
+- amazonwebservices.aws-toolkit-vscode: installs: 480806; daysInBetween: -105.92431832175926; marketplace: 1.33.0; Open VSX: 1.27.0
+- stylelint.vscode-stylelint: installs: 444066; daysInBetween: -10.720250497685186; marketplace: 1.1.0; Open VSX: 1.0.0
++ Ikuyadeu.r: installs: 396592; daysInBetween: 0.44571922453703705; marketplace: 2.3.2; Open VSX: 2.3.2
+- scala-lang.scala: installs: 351976; daysInBetween: -0.20734167824074073; marketplace: 0.5.5; Open VSX: 0.5.5
+- matklad.rust-analyzer: installs: 341222; daysInBetween: -12.128353425925926; marketplace: 0.2.809; Open VSX: 0.2.784
+- jock.svg: installs: 334717; daysInBetween: -364.7543234259259; marketplace: 1.4.14; Open VSX: 1.4.1
+- lextudio.restructuredtext: installs: 330277; daysInBetween: -199.65295409722222; marketplace: 167.0.0; Open VSX: 147.0.0
+- Kelvin.vscode-sshfs: installs: 294339; daysInBetween: -0.0016099768518518518; marketplace: 1.24.0; Open VSX: 1.24.0
+- ckolkman.vscode-postgres: installs: 277108; daysInBetween: 10.266473703703703; marketplace: 1.1.19; Open VSX: 1.1.19
+- MS-CEINTL.vscode-language-pack-it: installs: 239395; daysInBetween: -55.84219033564815; marketplace: 1.62.2; Open VSX: 1.60.4
+- mongodb.mongodb-vscode: installs: 238814; daysInBetween: -12.625852719907407; marketplace: 0.6.14; Open VSX: 0.6.12
+- torn4dom4n.latex-support: installs: 229907; daysInBetween: 10.395201018518518; marketplace: 3.10.0; Open VSX: 3.10.0
+- bierner.markdown-mermaid: installs: 216109; daysInBetween: -47.83376275462963; marketplace: 1.13.0; Open VSX: 1.12.1
+- miguelsolorio.fluent-icons: installs: 215440; daysInBetween: -178.81025199074074; marketplace: 0.0.14; Open VSX: 0.0.7
++ jeroen-meijer.pubspec-assist: installs: 205506; daysInBetween: 0.6629016550925926; marketplace: 2.3.2; Open VSX: 2.3.2
+- shufo.vscode-blade-formatter: installs: 173314; daysInBetween: -26.094423506944445; marketplace: 0.8.4; Open VSX: 0.7.29
+- asciidoctor.asciidoctor-vscode: installs: 154498; daysInBetween: 5.879537118055556; marketplace: 2.8.10; Open VSX: 2.8.10
+- MS-CEINTL.vscode-language-pack-tr: installs: 135490; daysInBetween: -55.84132050925926; marketplace: 1.62.2; Open VSX: 1.60.4
+- MS-CEINTL.vscode-language-pack-pl: installs: 114919; daysInBetween: -55.841700405092595; marketplace: 1.62.2; Open VSX: 1.60.4
+- BazelBuild.vscode-bazel: installs: 112913; daysInBetween: -191.46824246527777; marketplace: 0.5.0; Open VSX: 0.4.1
+- matepek.vscode-catch2-test-adapter: installs: 77897; daysInBetween: 6.60626818287037; marketplace: 3.6.33; Open VSX: 3.6.33
+- IBMBlockchain.ibm-blockchain-platform: installs: 76802; daysInBetween: 8.347183101851853; marketplace: 2.0.5; Open VSX: 2.0.5
+- ms-vscode.js-debug: installs: 67835; daysInBetween: -14.287536608796296; marketplace: 1.62.0; Open VSX: 1.61.0
++ meganrogge.template-string-converter: installs: 53370; daysInBetween: 0.2543495023148148; marketplace: 0.5.4; Open VSX: 0.5.3
++ korekontrol.saltstack: installs: 34125; daysInBetween: 0.7238623842592593; marketplace: 0.0.9; Open VSX: 0.0.9
+- MS-CEINTL.vscode-language-pack-cs: installs: 22144; daysInBetween: -55.843259027777776; marketplace: 1.62.2; Open VSX: 1.60.4
++ aki77.rails-db-schema: installs: 21489; daysInBetween: 0.2317716087962963; marketplace: 0.2.4; Open VSX: 0.2.4
+- stripe.vscode-stripe: installs: 19870; daysInBetween: -147.4839968287037; marketplace: 2.0.8; Open VSX: 1.7.7
+- paiqo.databricks-vscode: installs: 17149; daysInBetween: -136.6732661111111; marketplace: 0.8.9; Open VSX: 0.8.0
++ Nightrains.robloxlsp: installs: 11303; daysInBetween: 0.9026940856481481; marketplace: 1.5.1; Open VSX: 1.5.1
+- tomblind.local-lua-debugger-vscode: installs: 10946; daysInBetween: -52.506973252314815; marketplace: 0.3.1; Open VSX: 0.2.3
+- reduckted.vscode-gitweblinks: installs: 8720; daysInBetween: -18.031764953703703; marketplace: 2.6.0; Open VSX: 2.5.3
+- halcyontechltd.code-for-ibmi: installs: 3466; daysInBetween: -11.961328622685185; marketplace: 0.7.19; Open VSX: 0.7.15
+
+MS publish:
+ms-python.python (installs: 45125952)
+ms-toolsai.jupyter (installs: 25255851)
+dbaeumer.vscode-eslint (installs: 17147931)
+ms-azuretools.vscode-docker (installs: 11551414)
+vscjava.vscode-java-debug (installs: 11061882)
+vscjava.vscode-java-test (installs: 10376593)
+vscjava.vscode-java-pack (installs: 10084166)
+vscjava.vscode-java-dependency (installs: 9616118)
+GitHub.vscode-pull-request-github (installs: 3867496)
+ms-vscode.cmake-tools (installs: 3186941)
+GitHub.github-vscode-theme (installs: 2753959)
+ms-vscode.sublime-keybindings (installs: 1520841)
+vscjava.vscode-spring-initializr (installs: 1195168)
+vscjava.vscode-spring-boot-dashboard (installs: 971294)
+msjsdiag.debugger-for-edge (installs: 823654)
+ms-vscode.atom-keybindings (installs: 775328)
+ms-vscode.notepadplusplus-keybindings (installs: 712902)
+Tyriar.sort-lines (installs: 394867)
+ms-vscode.hexeditor (installs: 289128)
+ms-vscode.node-debug2 (installs: 240789)
+ms-vscode.node-debug (installs: 204994)
+ms-vscode.references-view (installs: 198393)
+ms-vscode.Theme-TomorrowKit (installs: 106752)
+ms-vscode.live-server (installs: 69327)
+ms-vscode.js-debug (installs: 67835)
+ms-vscode.makefile-tools (installs: 67431)
+ms-vscode.js-debug-companion (installs: 51647)
+ms-vscode.brackets-pack (installs: 47622)
+ms-vscode.vscode-js-profile-flame (installs: 18177)
+ms-vscode.vscode-smoketest-check (installs: 15804)
+ms-python.devicesimulatorexpress (installs: 14435)
+ms-vscode.vscode-js-profile-table (installs: 14190)
+Other publishers: esbenp,ritwickdey,MS-CEINTL,eamodio,formulahendry,vscode-icons-team,octref,ecmel,HookyQR,CoenraadS,xabikos,abusaidm,golang,christian-kohler,felixfbecker,donjayamanne,bmewburn,zhuangtongfa,EditorConfig,Zignd,dsznajder,Dart-Code,yzhang,vscodevim,DotJoshJohnson,twxs,naumovs,DavidAnson,batisteo,magicstack,dracula-theme,Shan,johnpapa,wholroyd,Angular,akamud,lonefy,oderwat,shd101wyy,aaron-bond,rebornix,mikestead,wayou,platformio,Mikael,alefragnani,hollowtree,humao,steoates,GrapeCity,onecentlin,James-Yu,ms-kubernetes-tools,wix,HashiCorp,rust-lang,mtxr,mitaki28,mgmcdermott,codezombiech,wingrunr21,vsciot-vscode,ikappas,sdras,hbenl,emmanuelbeziat,Unity,teabyii,vincaslt,jpoissonnier,SonarSource,yzane,njpwerner,k--kato,KevinRose,anseki,shardulm94,jebbs,bungcip,pflannery,zxh404,KnisterPeter,bradlc,felipecaputo,neilbrayfield,ziyasal,RobbOwen,file-icons,Tobiah,tombonnike,codingyu,Equinusocio,castwide,wmaurer,kisstkondoros,junstyle,bajdzis,auchenberg,MehediDracula,mathiasfrohlich,bierner,Wscats,amiralizadeh9480,AmazonWebServices,justusadam,LittleFoxTeam,hoovercj,stylelint,DigitalBrainstem,janisdd,alexkrechik,Ikuyadeu,xyz,GabrielBB,almenon,scala-lang,13xforever,matklad,jock,mrmlnc,ChakrounAnas,lextudio,shalldie,rokoroku,wwm,small,Arjun,Kelvin,ckolkman,Atishay-Jain,fwcd,enkia,ban,fernandoescolar,mongodb,mads-hartmann,deerawan,serayuzgur,daylerees,torn4dom4n,mindaro-dev,adpyke,marus25,miguelsolorio,samuelcolvin,patbenatar,jeroen-meijer,fabiospampinato,adelphes,silvenon,oouo-diogo-perdigao,docsmsft,richie5um2,shufo,shyykoserhiy,haskell,asciidoctor,kaiwood,mushan,johnsoncodehk,dcasella,denoland,pucelle,mrorz,max-SS,ipedrazas,marcostazi,BazelBuild,asvetliakov,vortizhe,paulmolluzzo,geequlim,karunamurti,iocave,patcx,mitchdenny,nadako,bpruitt-goddard,peterj,appulate,wongjn,neikeq,vsls-contrib,adamhartford,matepek,fterrag,IBMBlockchain,heybourn,giscafer,csstools,cheshirekow,miguel-savignano,bbenoist,slevesque,HansUXdev,ivangabriele,albymor,sodatea,meganrogge,maziac,ginfuru,heptio,ybaumes,kosz78,cschleiden,Dannark,vshaxe,pdconsec,shuworks,aliariff,nonoroazoro,notskm,lintangwisesa,svipas,paragdiwan,trond-snekvik,ria,kortina,ctf0,medo64,nick-rudenko,tuxtina,korekontrol,rintoj,arcanis,EmberTooling,higoka,openfl,RandomChance,ccls-project,jianbingfang,xirider,swellaby,shrey150,tchayen,philosowaffle,asabil,fredericbonnet,shinichi-takii,vscode-org-mode,aki77,travis,tonsky,Fr43nk,evaera,oguhpereira,nwolverson,exiasr,Stripe,rafaelmaiolla,connorshea,dunstontc,ph-hawkins,paiqo,tiehuis,Serpen,mpty,JeffersonQin,Hirse,belfz,HanWang,bmalehorn,andreweinand,liqube,Nightrains,tomblind,erlang-ls,fraser,chenglou92,fbaligand,reduckted,attilabuti,ethan-reesor,efoerster,sketchbuch,vinliao,GustavoASC,deibit,vlanguage,mp,kodetech,vhdlwhiz,danielgjackson,itsjonq,adrianhumphreys,ahmadawais,influrium,HalcyonTechLtd,skellock,gharveymn,aurorabiz,christianvoigt,mike-flanigan,dawidd6,apollographql,buianhthang,skn0tt,damonsk,dylan-foundry,xxamxx,saltud,HiroSystems,dancermak,laradump,
+
+Summary
+Not in OpenVSX: 49 (12%)
+Not in marketplace: 21 (5%)
+Marketplace > Open VSX: 87 (21%)
+Marketplace < Open VSX: 13 (3%)
+Marketplace == Open VSX: 249 (60%)
+MS is publisher: 32 (8%)
+Published to OpenVSX within 2 days after MS for last 30 days: 19 (24%)
+Not published to OpenVSX within 2 days after MS for last 30 days: 60 (76%)
